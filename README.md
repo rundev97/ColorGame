@@ -1,1 +1,2 @@
-# A Simple Color Guessing Game application using javascript, html, css
+# A Simple Color Guessing Game
+Simple web application using Javascript, HTML, CSS
